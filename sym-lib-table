@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name nixies-usx)(type Legacy)(uri "C:/EAGLE 9.3.0/_scripts/nixies-usx.lib")(options "")(descr ""))
+)
