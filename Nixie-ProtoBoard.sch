@@ -11,7 +11,7 @@ Rev "0.1"
 Comp "www.MarkFromSales.com"
 Comment1 "https://github.com/adafruit/Adafruit-MCP23017-Arduino-Library/issues/15"
 Comment2 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf"
-Comment3 ""
+Comment3 "https://github.com/MarkFromSales/Nixie-Protoboard-Large"
 Comment4 ""
 $EndDescr
 Wire Wire Line

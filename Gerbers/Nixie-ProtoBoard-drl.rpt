@@ -1,0 +1,30 @@
+Drill report for C:\Users\markd\OneDrive\Documents\Projects-Github\Nixie-Protoboard-Large\Nixie-ProtoBoard.kicad_pcb
+Created on 2/9/2019 9:32:50 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'Nixie-ProtoBoard-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (17 holes)
+    T2  0.80mm  0.031"  (248 holes)
+    T3  0.95mm  0.037"  (135 holes)
+    T4  1.00mm  0.039"  (123 holes)
+    T5  1.60mm  0.063"  (3 holes)
+    T6  1.70mm  0.067"  (4 holes)
+    T7  3.20mm  0.126"  (8 holes)
+
+    Total plated holes count 538
+
+
+Drill file 'Nixie-ProtoBoard-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
